@@ -1,0 +1,146 @@
+* {
+    scroll-behavior: smooth;
+}
+
+
+/* Navbar*/
+
+nav {
+    background-color: #660066;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    font-family: "Oswald";
+    font-weight: bold;
+}
+
+.img-fluid {
+    width: 5vh;
+}
+
+.my-nav {
+    z-index: 999;
+    background: none;
+    border: 0 !important;
+    border-radius: 0;
+    position: absolute;
+    width: 100%;
+}
+
+
+/*  Hero section*/
+
+#hero-section {
+    background: url("../img/carousel1.jpg");
+    height: 500px !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    scroll-behavior: smooth;
+}
+
+
+/* Carrusel*/
+
+.my-carousel {
+    position: relative;
+    top: 0;
+}
+
+
+/* Sobre nosotros  */
+
+.quienes-somos {
+    background-color: black;
+    color: white !important;
+}
+
+.icono {
+    background-color: #08999d;
+    position: relative;
+    font-size: 30px;
+}
+
+.hacherre {
+    background-color: #08999d;
+}
+
+#sobre-mi {
+    width: 100%;
+    background-color: black;
+    scroll-behavior: smooth;
+}
+
+.quienesText {
+    font-size: 50px;
+}
+
+#sobre-mi {
+    scroll-behavior: smooth;
+}
+
+
+/* Destacadods¨*/
+
+.destaText {
+    font-family: "Open-Sans";
+    font-size: 50px;
+}
+
+.destacado {
+    background-color: black;
+    color: white !important;
+    padding-top: 150px;
+}
+
+.card-body {
+    background-color: #08999d;
+}
+
+.bodyTexto {
+    font-family: "Open-Sans";
+}
+
+.card-img-top {
+    height: 170px;
+}
+
+#destacaos {
+    scroll-behavior: smooth;
+}
+
+
+/*  CONTACTO */
+
+.contacto {
+    background-color: black;
+    color: white !important;
+    padding-top: 150px !important;
+}
+
+form {
+    align-items: center !important;
+    /* padding-left: 500px;
+    padding-right: 500px; */
+    padding-top: 50px;
+}
+
+.btn {
+    margin-top: 30px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+
+/* Foooter  */
+
+.foter {
+    background-color: #08999d;
+    color: white !important;
+    padding-top: 30px;
+}
+
+.iconosfo {
+    text-align: end;
+}
